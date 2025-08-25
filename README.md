@@ -15,7 +15,7 @@ In my free time I like to give life to strange projects. 👽
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markoceri&count_private=true&layout=compact&hide=MATLAB,LUA,Makefile,Processing&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=markoceri&custom_title=GitHub%20Stats&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=markoceri&custom_title=GitHub%20Stats&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=markoceri&color=blue)
 
