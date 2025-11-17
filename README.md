@@ -9,13 +9,11 @@ In my free time I like to give life to strange projects. 👽
 ## About me
 
 - 🔭 I’m currently working at _Tekna Automation_ on a Machine Vision project
-- 👯 I’m looking to collaborate on **Open Source** projects
+- 👯 I like to collaborate on **Open Source** projects
 
 ## Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markoceri&count_private=true&layout=compact&hide=MATLAB,LUA,Makefile,Processing&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=markoceri&custom_title=GitHub%20Stats&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=markoceri&color=blue)
 
