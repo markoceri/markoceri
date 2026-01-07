@@ -11,11 +11,15 @@ In my free time I like to give life to strange projects. 👽
 - 🔭 I’m currently working at _Tekna Automation_ on a Machine Vision project
 - 👯 I like to collaborate on **Open Source** projects
 
-## Stats
+## Projects
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=markoceri&count_private=true&layout=compact&hide=MATLAB,LUA,Makefile,Processing&card_width=450)](https://github.com/anuraghazra/github-readme-stats)
+> ### ⚡️🌞 [Edge Mining](https://github.com/edge-mining/app)
+> ![EdgeMining Logo](https://avatars.githubusercontent.com/u/194506844?s=200&v=4)
+>
+> **Role:** Core Contributor
+>
+> **Description:** Software to optimize the use of excess energy, especially from renewable sources, through Bitcoin mining. This system automates the turning on and off of ASIC miner devices based on energy availability, production forecasts, and user-defined policies.
+>
+> `Python` • `Vue.js` • `Docker` • `DDD`
 
 ![](https://komarev.com/ghpvc/?username=markoceri&color=blue)
-
-
-Credits to [Stats cards](https://github.com/anuraghazra/github-readme-stats), [Profile views counter](https://github.com/antonkomarev/github-profile-views-counter).
