@@ -8,7 +8,7 @@ In my free time I like to give life to strange projects. 👽
 
 ## About me
 
-- 🔭 I’m currently working at _Tekna Automation_ on a Machine Vision project
+- 🔭 I’m currently working at _Tekna Automazione e Controllo_ on a Machine Vision project
 - 👯 I like to collaborate on **Open Source** projects
 
 ## Projects
